@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Project 4\OOPS based system for storing school data\OOPS based system for storing school data\bin\Debug\OOPS based system for storing school data.exe.config
+C:\Mphasis dot net\Project 4\OOPS based system for storing school data\OOPS based system for storing school data\bin\Debug\OOPS based system for storing school data.exe
+C:\Mphasis dot net\Project 4\OOPS based system for storing school data\OOPS based system for storing school data\bin\Debug\OOPS based system for storing school data.pdb
+C:\Mphasis dot net\Project 4\OOPS based system for storing school data\OOPS based system for storing school data\obj\Debug\OOPS based system for storing school data.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Project 4\OOPS based system for storing school data\OOPS based system for storing school data\obj\Debug\OOPS based system for storing school data.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Project 4\OOPS based system for storing school data\OOPS based system for storing school data\obj\Debug\OOPS based system for storing school data.exe
+C:\Mphasis dot net\Project 4\OOPS based system for storing school data\OOPS based system for storing school data\obj\Debug\OOPS based system for storing school data.pdb
